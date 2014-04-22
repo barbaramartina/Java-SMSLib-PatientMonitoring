@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$interface_administrable.html" title="Administrable" alt="" coords="5,5,107,35"/>
+<area shape="rect" id="node3" href="$class_campaign_subsystem.html" title="CampaignSubsystem" alt="" coords="155,5,301,35"/>
+<area shape="rect" id="node4" href="$interface_listable.html" title="Listable" alt="" coords="23,59,89,88"/>
+<area shape="rect" id="node7" href="$class_doctor_subsystem.html" title="DoctorSubsystem" alt="" coords="165,59,291,88"/>
+<area shape="rect" id="node9" href="$class_patient_subsystem.html" title="PatientSubsystem" alt="" coords="164,112,292,141"/>
+</map>

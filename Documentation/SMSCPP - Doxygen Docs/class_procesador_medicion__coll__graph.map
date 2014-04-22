@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_db_paciente.html" title="DbPaciente" alt="" coords="5,389,93,419"/>
+<area shape="rect" id="node16" href="$class_validador.html" title="Validador" alt="" coords="137,485,212,515"/>
+<area shape="rect" id="node20" href="$class_db_medicion.html" title="DbMedicion" alt="" coords="236,485,327,515"/>
+<area shape="rect" id="node4" href="$class_conexion_pool.html" title="ConexionPool" alt="" coords="164,197,265,227"/>
+<area shape="rect" id="node10" href="$class_db_tipo_medicion.html" title="DbTipoMedicion" alt="" coords="224,389,339,419"/>
+<area shape="rect" id="node13" href="$class_db_parametro_medicion.html" title="DbParametroMedicion" alt="" coords="223,293,372,323"/>
+<area shape="rect" id="node6" href="$class_conexion_d_b.html" title="ConexionDB" alt="" coords="168,101,261,131"/>
+<area shape="rect" id="node8" href="$class_propiedades_d_b.html" title="PropiedadesDB" alt="" coords="159,5,271,35"/>
+</map>

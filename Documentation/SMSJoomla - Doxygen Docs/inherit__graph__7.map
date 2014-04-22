@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_graphic.html" title="Graphic" alt="" coords="5,59,72,88"/>
+<area shape="rect" id="node3" href="$class_bar_graphic.html" title="BarGraphic" alt="" coords="123,5,208,35"/>
+<area shape="rect" id="node5" href="$class_line_graphic.html" title="LineGraphic" alt="" coords="120,59,211,88"/>
+<area shape="rect" id="node7" href="$class_pie_graphic.html" title="PieGraphic" alt="" coords="123,112,208,141"/>
+</map>

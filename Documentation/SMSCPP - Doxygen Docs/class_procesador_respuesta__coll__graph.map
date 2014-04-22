@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_time_tester.html" title="TimeTester" alt="" coords="5,389,91,419"/>
+<area shape="rect" id="node5" href="$class_sender_s_m_s.html" title="SenderSMS" alt="" coords="188,389,279,419"/>
+<area shape="rect" id="node7" href="$class_db_respuesta.html" title="DbRespuesta" alt="" coords="303,389,401,419"/>
+<area shape="rect" id="node9" href="$class_db_paciente.html" title="DbPaciente" alt="" coords="308,293,396,323"/>
+<area shape="rect" id="node11" href="$class_conexion_pool.html" title="ConexionPool" alt="" coords="301,197,403,227"/>
+<area shape="rect" id="node18" href="$class_db_medico.html" title="DbMedico" alt="" coords="420,293,500,323"/>
+<area shape="rect" id="node13" href="$class_conexion_d_b.html" title="ConexionDB" alt="" coords="305,101,399,131"/>
+<area shape="rect" id="node15" href="$class_propiedades_d_b.html" title="PropiedadesDB" alt="" coords="296,5,408,35"/>
+</map>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<configuration>
+	<database>
+		<user>barbara</user>
+		<password>123456</password>
+		<name>SMSDatabase</name>
+		<host>localhost</host>
+		<hostaddress>127.0.0.1</hostaddress>
+		<port>5000</port>
+		<max_connections>4</max_connections>
+		<url>jdbc:postgresql://localhost:5000/SMSDatabase</url>
+		<driver>org.postgresql.Driver</driver>
+	</database>
+	<modem>
+		<id>WavecomModem</id>
+		<model>FastractSupreme20</model>
+		<manufacturer>Wavecom</manufacturer>
+		<port>COM3</port>
+		<baudRate>115200</baudRate>
+		<SMSC>+541151740055</SMSC>
+		<simPin>0000</simPin>
+	</modem>
+	<tester>
+		<test_medicion_ON>y</test_medicion_ON>
+		<test_respuesta_ON>y</test_respuesta_ON>
+		<test_novedad_ON>y</test_novedad_ON>
+		<test_medicion_file>c:/SMSTestTimesMedicion.test</test_medicion_file>
+		<test_respuesta_file>c:/SMSTestTimesRespuesta.test</test_respuesta_file>
+		<test_novedad_file>c:/SMSTestTimesNovedad.test</test_novedad_file>
+	</tester>
+</configuration>

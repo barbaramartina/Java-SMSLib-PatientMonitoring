@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_tipo_medicion.html" title="TipoMedicion" alt="" coords="65,213,164,243"/>
+<area shape="rect" id="node4" href="$class_lista.html" title="Lista\&lt; ParametroMedicion \&gt;" alt="" coords="5,117,192,147"/>
+<area shape="rect" id="node6" href="$class_lista_1_1_nodo.html" title="Lista\&lt; T \&gt;::Nodo" alt="" coords="40,5,157,35"/>
+<area shape="rect" id="node9" href="$class_paciente.html" title="Paciente" alt="" coords="208,213,280,243"/>
+<area shape="rect" id="node11" href="$class_usuario.html" title="Usuario" alt="" coords="216,117,283,147"/>
+</map>
